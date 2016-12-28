@@ -1,0 +1,34 @@
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\bin\Debug\Trabalho ParadigmasI.exe.config
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\bin\Debug\Trabalho ParadigmasI.exe
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\bin\Debug\Trabalho ParadigmasI.pdb
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.csprojResolveAssemblyReference.cache
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.MenuPrincipal.resources
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.Properties.Resources.resources
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.csproj.GenerateResource.Cache
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.exe
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.pdb
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.AdicionarArtigo.resources
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.AtualizarStock.resources
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.GerirArtigos.resources
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.AtribuirCartao.resources
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.ConsultarCompras.resources
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.ConsultarSaldo.resources
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.GerirPontosDosClientes.resources
+C:\Users\André Rodrigues\Desktop\Faculdade Things\Projetos Visual Studio\Ficha 4\Trabalho ParadigmasI\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.RegistarCompras.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\bin\Debug\Trabalho ParadigmasI.exe.config
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.exe
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.pdb
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\bin\Debug\Trabalho ParadigmasI.exe
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\bin\Debug\Trabalho ParadigmasI.pdb
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.csprojResolveAssemblyReference.cache
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.AdicionarArtigo.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.AtribuirCartao.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.AtualizarStock.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.ConsultarCompras.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.ConsultarSaldo.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.GerirArtigos.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.GerirPontosDosClientes.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.MenuPrincipal.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.Properties.Resources.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.RegistarCompras.resources
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.csproj.GenerateResource.Cache
