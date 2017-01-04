@@ -32,3 +32,6 @@ C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\D
 C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.Properties.Resources.resources
 C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho_ParadigmasI.RegistarCompras.resources
 C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\supermecardocsharp\FakeSuper\Trabalho ParadigmasI\bin\Debug\Trabalho ParadigmasI.exe.config
+C:\Users\Moises\Desktop\supermecardocsharp\FakeSuper\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.exe
+C:\Users\Moises\Desktop\supermecardocsharp\FakeSuper\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.pdb
