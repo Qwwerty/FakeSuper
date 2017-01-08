@@ -8,5 +8,12 @@ namespace Trabalho_ParadigmasI
 {
     class Artigo
     {
+        private float preco;
+        public float Preco
+        {
+            get { return preco; }
+            set { preco = value; }
+        }
+
     }
 }

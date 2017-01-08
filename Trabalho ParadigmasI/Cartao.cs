@@ -6,8 +6,17 @@ using System.Threading.Tasks;
 
 namespace Trabalho_ParadigmasI
 {
+    //Get e Seters
     class Cartao
     {
+        private Cliente donoCartao;
+
+        public Cliente DonoCartao
+        {
+            get { return donoCartao; }
+            set { donoCartao = value; }
+        }
+
         private List<float> movimentos;
         public List<float> Movimentos
         {
@@ -35,7 +44,14 @@ namespace Trabalho_ParadigmasI
             get { return pontos; }
             set { pontos = value; }
         }
-
+        //Constructor
+        public Cartao(Cliente NovoCliente)
+        {
+            donoCartao = NovoCliente;
+            movimentos = new List<float>(); //como exigido na ficha
+            saldo = 0;
+            pontos = 0;
+        }
 
     }
 }

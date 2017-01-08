@@ -52,6 +52,7 @@
     <Compile Include="AdicionarArtigo.Designer.cs">
       <DependentUpon>AdicionarArtigo.cs</DependentUpon>
     </Compile>
+    <Compile Include="Artigo.cs" />
     <Compile Include="AtribuirCartao.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +65,9 @@
     <Compile Include="AtualizarStock.Designer.cs">
       <DependentUpon>AtualizarStock.cs</DependentUpon>
     </Compile>
+    <Compile Include="Cartao.cs" />
+    <Compile Include="Cliente.cs" />
+    <Compile Include="Compra.cs" />
     <Compile Include="ConsultarCompras.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,6 +106,7 @@
     <Compile Include="RegistarCompras.Designer.cs">
       <DependentUpon>RegistarCompras.cs</DependentUpon>
     </Compile>
+    <Compile Include="Stoke.cs" />
     <EmbeddedResource Include="AdicionarArtigo.resx">
       <DependentUpon>AdicionarArtigo.cs</DependentUpon>
     </EmbeddedResource>
