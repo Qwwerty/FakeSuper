@@ -106,7 +106,7 @@
     <Compile Include="RegistarCompras.Designer.cs">
       <DependentUpon>RegistarCompras.cs</DependentUpon>
     </Compile>
-    <Compile Include="Stoke.cs" />
+    <Compile Include="SuperMercado.cs" />
     <EmbeddedResource Include="AdicionarArtigo.resx">
       <DependentUpon>AdicionarArtigo.cs</DependentUpon>
     </EmbeddedResource>

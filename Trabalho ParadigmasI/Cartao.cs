@@ -9,36 +9,36 @@ namespace Trabalho_ParadigmasI
     //Get e Seters
     class Cartao
     {
-        private Cliente donoCartao;
+        private Cliente dono_cartao;
+        private List<float> movimentos;
+        private float saldo;
+        private List<Artigo> lista_compras;
+        private int pontos;
 
         public Cliente DonoCartao
         {
-            get { return donoCartao; }
-            set { donoCartao = value; }
+            get { return dono_cartao; }
+            set { dono_cartao = value; }
         }
 
-        private List<float> movimentos;
         public List<float> Movimentos
         {
             get { return movimentos; }
             set { movimentos = value; }
         }
 
-        private float saldo;
         public float Saldo
         {
             get { return saldo; }
             set { saldo = value; }
         }
 
-        private List<Artigo> listaComprasCartao;
-        public List<Artigo> ListaComprasCartao
+        public List<Artigo> Lista_Compras
         {
-            get { return listaComprasCartao; }
-            set { listaComprasCartao = value; }
+            get { return lista_compras; }
+            set { lista_compras = value; }
         }
 
-        private int pontos;
         public int Pontos
         {
             get { return pontos; }
@@ -47,10 +47,10 @@ namespace Trabalho_ParadigmasI
         //Constructor
         public Cartao(Cliente NovoCliente)
         {
-            donoCartao = NovoCliente;
-            movimentos = new List<float>(); //como exigido na ficha
-            saldo = 0;
-            pontos = 0;
+            this.dono_cartao = NovoCliente;
+            this.movimentos = new List<float>(); //como exigido na ficha
+            this.saldo = 0;
+            this.pontos = 0;
         }
 
     }

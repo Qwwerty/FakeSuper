@@ -35,3 +35,6 @@ C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\Trabalho ParadigmasI\obj\D
 C:\Users\Moises\Desktop\supermecardocsharp\FakeSuper\Trabalho ParadigmasI\bin\Debug\Trabalho ParadigmasI.exe.config
 C:\Users\Moises\Desktop\supermecardocsharp\FakeSuper\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.exe
 C:\Users\Moises\Desktop\supermecardocsharp\FakeSuper\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.pdb
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\FakeSuper\Trabalho ParadigmasI\bin\Debug\Trabalho ParadigmasI.exe.config
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\FakeSuper\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.exe
+C:\Users\André Rodrigues\Desktop\Trabalho Paradigmas\FakeSuper\Trabalho ParadigmasI\obj\Debug\Trabalho ParadigmasI.pdb

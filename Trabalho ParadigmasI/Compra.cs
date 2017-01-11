@@ -8,39 +8,40 @@ namespace Trabalho_ParadigmasI
 {
     class Compra
     {
-        private Cliente clienteQueComprou;
-        public Cliente ClienteQueComprou
+        private Cliente cliente_que_comprou;
+        private List<Artigo> artigos_da_compra;
+        private int quantidade_de_artigos;
+        private float total_compra;
+
+        public Cliente Cliente_Que_Comprou
         {
-            get { return clienteQueComprou; }
-            set { clienteQueComprou = value; }
+            get { return cliente_que_comprou; }
+            set { cliente_que_comprou = value; }
         }
 
-        private List<Artigo> artigosDaCompra;
-        public List<Artigo> ArtigosDaCompra
+        public List<Artigo> Artigos_Da_Compra
         {
-            get { return artigosDaCompra; }
-            set { artigosDaCompra = value; }
+            get { return artigos_da_compra; }
+            set { artigos_da_compra = value; }
         }
 
-        private int quantidadeDeArtigos;
-        public int QuantidadeDeArtigos
+        public int Quantidade_De_Artigos
         {
-            get { return quantidadeDeArtigos; }
-            set { quantidadeDeArtigos = value; }
+            get { return quantidade_de_artigos; }
+            set { quantidade_de_artigos = value; }
         }
 
-        private float totalCompra;
-        public float TotalCompra
+        public float Total_Compra
         {
-            get { return totalCompra; }
-            set { totalCompra = value; }
+            get { return total_compra; }
+            set { total_compra = value; }
         }
         public Compra(Cliente Cliente)
         {
-            clienteQueComprou = Cliente;
-            artigosDaCompra =new List<Artigo>();
-            totalCompra = 0; //Depois vamos fazer um ciclo for correr a lista e artigo.preco=artigo.preco+artigo.preco
-            quantidadeDeArtigos = 0; //Depois vamos fazer um ciclo for at6e ao fim da lista e em casa volta encrementar artigos.
+            this.cliente_que_comprou = Cliente;
+            this.artigos_da_compra =new List<Artigo>();
+            this.total_compra = 0; //Depois vamos fazer um ciclo for correr a lista e artigo.preco=artigo.preco+artigo.preco
+            this.quantidade_de_artigos = 0; //Depois vamos fazer um ciclo for ate ao fim da lista e em casa volta encrementar artigos.
         }
     }
 }
